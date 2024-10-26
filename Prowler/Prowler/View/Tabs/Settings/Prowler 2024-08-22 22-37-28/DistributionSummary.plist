@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Prowler.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7C847B41948601DBC337E77C64B64E798EF479AE</string>
+				<key>dateExpires</key>
+				<string>22/8/25</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SW33C2GU85.com.dalamar.prowler</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SW33C2GU85</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Prowler.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9f869e2d-94cf-4467-ac79-484e0543695b</string>
+				<key>dateExpires</key>
+				<string>22/8/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.dalamar.prowler</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SW33C2GU85</string>
+				<key>name</key>
+				<string>Emilio Moreno</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
